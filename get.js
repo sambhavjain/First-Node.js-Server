@@ -1,5 +1,5 @@
 //Include http module
-var http = require("http");
+var http = require("http"),
 // Adding url module, which is very helpful in parsing request parameter
 url = require("url");
 
